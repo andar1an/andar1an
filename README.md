@@ -5,7 +5,7 @@ NOTE: My personal repos are being migrated to a self-hosted solution. I will upd
 
 Community Collaboration:
 - Github:[personal](https://github.com/stephenandary). [jammin mirror](https://github.com/jamminmusic)
-- Gitlab: [personal](https://gitlab.com/stephenandary)
+- Gitlab: [personal](https://gitlab.com/users/stephenandary/projects)
 
 Personal and Organization Repositories
 - Gitea: TBD [personal](), [jammin]()
