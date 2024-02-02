@@ -4,11 +4,11 @@
 NOTE: My personal repos are being migrated to a self-hosted solution. I will update this readme with a link once migration is complete. 
 
 Community Collaboration:
-- Github:[personal](https://github.com/stephenandary). [jammin mirror](https://github.com/jamminmusic)
-- Gitlab: [personal](https://gitlab.com/users/stephenandary/projects)
+- Github:[personal](https://github.com/andar1an). [jammin mirror](https://github.com/jamminmusic)
+- Gitlab: [personal](https://gitlab.com/users/andar1an/projects)
 
 Personal and Organization Repositories
-- Gitea: TBD [personal](), [jammin]()
+- Raw Git or Gitea: TBD [personal](), [jammin]()
 
 <!---
 stephenandary/stephenandary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
