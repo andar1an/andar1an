@@ -9,10 +9,10 @@ Community Collaboration:
 - Gitlab: [personal](https://gitlab.com/users/andar1an)
 
 Personal and Organization Repositories
-- Codeberg: [personal](https://codeberg.org/andar1an), [jammin mirror](https://codeberg.org/jammin)
-- Raw Git or Forgejo or Gitea: TBD [personal](), [jammin]()
-- Github: [jammin discovery](https://github.com/jamminmusic)
-- Gitlab: TBD [jammin discovery]()
+- Selfhosted (Closed Source) - Raw Git or Forgejo or Gitea: TBD [personal](), [jammin]()
+- Codeberg (OSS ONLY): [personal](https://codeberg.org/andar1an), [jammin oss repo_mirror and discovery](https://codeberg.org/jammin)
+- Github: [jammin oss repo mirror and discovery](https://github.com/jamminmusic)
+- Gitlab: TBD [jammin oss repo mirror and discovery]()
 
 <!---
 stephenandary/stephenandary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
