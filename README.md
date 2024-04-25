@@ -14,7 +14,7 @@ NOTE: My personal repos are being migrated to a self-hosted solution. I will upd
 Community Collaboration:
 - Codeberg: [personal](https://codeberg.org/andar1an)
 - Github: [personal](https://github.com/andar1an)
-- Gitlab: [personal](https://salsa.debian.org/andar1an)
+- Gitlab: [debian](https://salsa.debian.org/andar1an)
 
 Personal and Organization Repositories
 - Selfhosted (Closed Source) - Raw Git or Forgejo or Gitea: TBD - Also need to test JJ (jujutsu)
