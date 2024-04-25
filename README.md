@@ -19,8 +19,8 @@ Community Collaboration:
 Personal and Organization Repositories
 - Selfhosted (Closed Source) - Raw Git or Forgejo or Gitea: TBD - Also need to test JJ (jujutsu)
 - Codeberg (OSS ONLY): [personal](https://codeberg.org/andar1an), jammin oss repo_mirror and discovery - TBD
-- Github:  jammin oss repo_mirror and discovery - TBD
-- Gitlab:  jammin oss repo_mirror and discovery - TBD
+- Github (OSS ONLY):  jammin oss repo_mirror and discovery - TBD
+- Gitlab (OSS ONLY):  jammin oss repo_mirror and discovery - TBD
 
 <!---
 stephenandary/stephenandary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
