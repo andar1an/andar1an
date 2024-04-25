@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @andar1an
-- 💞️ I am building a Social Music Discovery App! As part of that journey I’m looking to collaborate on projects that I love and that align with my dev journey based on building a PWA with WASM and Rust.
+👋 Hi, I’m @andar1an
+
+💞️ I am building a Social Music Discovery App! As part of that journey I’m looking to collaborate on projects that I love and that align with my dev journey based on building a PWA with WASM and Rust.
 
 Jammin Splash Page:
 
