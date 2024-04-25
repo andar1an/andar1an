@@ -12,12 +12,12 @@ Blog:
 
 NOTE: My personal repos are being migrated to a self-hosted solution. I will update this readme with a link once migration is complete. 
 
-Community Collaboration:
+Personal and Community Collaboration:
 - Codeberg: [personal](https://codeberg.org/andar1an)
 - Github: [personal](https://github.com/andar1an)
 - Gitlab: [debian](https://salsa.debian.org/andar1an)
 
-Personal and Organization Repositories
+Organization Repositories
 - Selfhosted (Closed Source) - Raw Git or Forgejo or Gitea: TBD - Also need to test JJ (jujutsu)
 - Codeberg (OSS ONLY): [personal](https://codeberg.org/andar1an), jammin oss repo_mirror and discovery - TBD
 - Github (OSS ONLY):  jammin oss repo_mirror and discovery - TBD
