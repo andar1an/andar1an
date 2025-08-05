@@ -1,28 +1,9 @@
-👋 Hi, I’m @andar1an
+👋, I'm @andar1an, a rustacean 🦀
 
-💞️ I am building a Social Music Discovery App! As part of that journey I’m looking to collaborate on projects that I love and that align with my dev journey based on building a PWA with WASM and Rust.
+I'm working towards Social Music Discovery innovation - <https://jamminmusic.com>
 
-Jammin Splash Page:
+I'm passionate about too many things, and occasionaly write about those things when the mood strikes - <https://theandar1an.com>
 
-<https://jamminmusic.com>
+I use forks on Github as an archive tool to track projects I like. They are portable - unlike stars - and I can back up the projects regularly, as well as contibute on occasion.
 
-Blog:
-
-<https://theandar1an.com>
-
-NOTE: My personal repos are being migrated to a self-hosted solution. I will update this readme with a link once migration is complete. 
-
-Personal and Community Collaboration:
-- Codeberg: [personal](https://codeberg.org/andar1an)
-- Github: [personal](https://github.com/andar1an)
-
-Organization Repositories
-- Selfhosted (Closed Source) - Raw Git or Forgejo or Gitea: TBD - Also need to test JJ (jujutsu)
-- Codeberg (OSS ONLY): [personal](https://codeberg.org/andar1an), jammin oss repo_mirror and discovery - TBD
-- Github (OSS ONLY):  jammin oss repo_mirror and discovery - TBD
-- Gitlab (OSS ONLY):  jammin oss repo_mirror and discovery - TBD
-
-<!---
-stephenandary/stephenandary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My personal code will not be available on this platform.
